@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma première page web</title>
+</head>
+<body>
+<header>Le menu </header>
+    <main id="mainpage">
+    <!--le contenu de ma page sera injecté ici-->
+    </main>
+
+    <footer>le footer de mon site </footer>
+    
+    <script type="module" src="routers/router.js"></script>
+    </body>
+</html>
