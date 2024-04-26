@@ -2,6 +2,8 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="node_modules/boostrap/dist/css/boostrap.min.css"/>
+    <link   rel="stylesheet" href="node modules/boostrap-icons/font/boostrap-icons.css"/>
     <title>Ma première page web</title>
 </head>
 <body>
@@ -13,5 +15,6 @@
     <footer>le footer de mon site </footer>
     
     <script type="module" src="routers/router.js"></script>
+    <script src="node_modules/boostrap/dist/js/boostrap.bundle.min.js"></script>
     </body>
 </html>
